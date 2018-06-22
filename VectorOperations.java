@@ -1,5 +1,3 @@
-package com.example.noam.try_stuff;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 
